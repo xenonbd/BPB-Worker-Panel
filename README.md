@@ -1,4 +1,4 @@
-<h1 align="center">BPB Panel</h1>
+<h2 align="center">BPB Panel</h2>
 
 ### 🌏 Readme in [Farsi](README_fa.md)
 
